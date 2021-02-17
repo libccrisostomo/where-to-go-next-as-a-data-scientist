@@ -47,7 +47,7 @@ and graphs” and “What Makes a Visualization Memorable?”.
 This Dashboard includes three different tabs, where each one has a specific purpose.
 
 ### Tab 1: World
-The initial Tab that opens automatically when one enters our Dashboard is focused on a general description of the
+The initial Tab that opens automatically when one enters the Dashboard is focused on a general description of the
 idea and the possibilities that this Dashboard offers. This tab offers a great overview for the user, to pique a general interest and to compare values for the same variable on various continents. Additionally, by selecting a variable, beneath the selection Dropdown there will be displayed a small description of the variable,
 similar to the definitions above. On the right side, a world globe heatmap can be found, where the user can decide on a variable to display. After
 having selected a variable, the correspondent value for the most recent year will be displayed in each country that
