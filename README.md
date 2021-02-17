@@ -38,26 +38,18 @@ percentage)<br>
   
 
 ## Visualization and interaction choices
-As an inspiration for this work, we took in account the method of showing data used by the World Data Bank, where
-in one single visualization they summarize one variables information, from multiple places in the world and in
-different year ranges.
-As such, our goal was to do something similar: visualizations that allow us to summarize important descriptive
-variables of the quality of living (as a data scientist) in different places in the world, answering the question that we
-have in our heads at the moment: “Where to go abroad?”. All the visualizations should lead us to the best decision,
+The visualizations allow us to summarize important descriptive
+variables of the quality of living (as a data scientist) in different places in the world, answering the question that one might
+have in their heads at the moment: “Where to go abroad?”. The visualizations can help leading to the best decision,
 taking in account witch variables are most important for each user.
-We based our visualizations choices based on the knowledge of both theoretical and practical classes, the
-recommend course book, the Python Graph Gallery and the papers “Data visualization 101: how to design charts
+The choice of visualization types is based on the Python Graph Gallery, aswell as the papers “Data visualization 101: how to design charts
 and graphs” and “What Makes a Visualization Memorable?”.
-Our Dashboard includes three different tabs, where each one has a specific purpose.
+This Dashboard includes three different tabs, where each one has a specific purpose.
 
 ### Tab 1: World
 The initial Tab that opens automatically when one enters our Dashboard is focused on a general description of the
-idea and the possibilities that we offer. This tab offers a great overview for the user, to peak a general interest on
-which variables we’re working on, and to compare values for the same variable on various continents. Additionally,
-by selecting a variable, beneath the selection Dropdown there will be displayed a small description of the variable,
-similar to the definitions in section 2.
-World Globe Heatmap
-On the right side we implemented a world globe heatmap, where the user can decide on a variable to display. After
+idea and the possibilities that this Dashboard offers. This tab offers a great overview for the user, to peak a general interest and to compare values for the same variable on various continents. Additionally, by selecting a variable, beneath the selection Dropdown there will be displayed a small description of the variable,
+similar to the definitions above. On the right side a world globe heatmap can be found, where the user can decide on a variable to display. After
 having selected a variable, the correspondent value for the most recent year will be displayed in each country that
 has a record, in a corresponding colour, that can be interpreted with the colour scale legend to the right side of the
 visualization. <p>
@@ -70,15 +62,11 @@ visualization. <p>
 ### Tab 2: Features
 After having gained a general overview of the variables and countries that can be compared using our Dashboard,
 the second Tab has the sole purpose of directly comparing several countries on the same feature.
-Bar Chart for Top 5 countries for chosen variable
-Thus, we decided on displaying a bar chart that visualizes the top 5 countries for a variable that the user, once again,
+Thus, a bar chart visualizes the top 5 countries for a variable that the user, once again,
 can decide on. As a result, this offers the possibility of identifying which countries outshine others regarding the
 variables that the user prioritizes. (Using the most effective channel: position) <p>
   
 ### Tab 3: Countries
-Finally, after the user has elected the countries which seem most appealing for his or her purpose, our final and
-most information-revealing tab serves to visualize all the features for the respective countries. Thus, we included3
-several charts next to the global indicators of World Happiness Score, World cost of Living, and World Annual Data
-Scientist’s Salary, to facilitate the comparison of the values of a certain county with the World average. We
-considered these features at the most essential combination that includes various perspectives and priorities.
+Finally, after the user has elected the countries which seem most appealing for his or her purpose, the final and
+most information-revealing tab serves to visualize all the features for the respective countries. Thus, several visualizations facilitate the comparison beween the values of a certain county with the World average. 
 
