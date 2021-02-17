@@ -70,3 +70,6 @@ variables that the user prioritizes. (Using the most effective channel: position
 Finally, after the user has elected the countries which seem most appealing for his or her purpose, the final and
 most information-revealing tab serves to visualize all the features for the respective countries. Thus, several visualizations facilitate the comparison beween the values of a certain county with the World average. 
 
+
+<hr>
+This Dashboard was created in the scope of the 'Data Visualization' Couse of the Masters of Data Science and Advanced Analytics
