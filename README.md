@@ -62,7 +62,7 @@ having selected a variable, the correspondent value for the most recent year wil
 has a record, in a corresponding colour, that can be interpreted with the colour scale legend to the right side of the
 visualization. <p>
 
-![Tab 1 Screenshot](./Data/tab1.png)
+![Tab 1 Screenshot](./Data/tab1.PNG)
   
 ### Tab 2: Features
 After having gained a general overview of the variables and countries that can be compared using our Dashboard,
