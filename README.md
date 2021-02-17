@@ -72,4 +72,4 @@ most information-revealing tab serves to visualize all the features for the resp
 
 
 <hr>
-This Dashboard was created in the scope of the 'Data Visualization' Couse of the Masters of Data Science and Advanced Analytics
+This Dashboard was created in the scope of the 'Data Visualization' Couse of the Masters of Data Science and Advanced Analytics at NOVA IMS - Information Management School
