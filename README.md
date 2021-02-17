@@ -1,8 +1,8 @@
 # Where to go next as a Data Scientist?
 
-This repository contains an interactive Dashboard, created with Dash by Plotly, which can help aspiring Data Scientists to choose a country to relocate to, given a fair number of factors. This topic seemed up to date and especially relevant as first year Data Science Master’s Students: Where to go next. Either as a professional internship or for an actual job, the choice and decision on a country, after the decision of moving abroad, can be quite challenging; and this is where this Dashboard comes in handy. 
+This repository contains an interactive Dashboard, created with Dash by Plotly, which can help aspiring Data Scientists to choose a country to relocate to, given a fair number of factors. This topic seemed up to date and especially relevant as first-year Data Science Master’s Students: Where to go next. Either as a professional internship or for an actual job, the choice and decision on a country, after the decision of moving abroad, can be quite challenging; and this is where this Dashboard comes in handy. 
 
-The following variables were collected ans visualized in the Dashboard:
+The following variables were collected and visualized in the Dashboard:
 
 1. __Basic Human Needs__ - Index that combines multiple factors regarding Nutrition and Basic Medical Care, Water
 and Sanitation, Shelter and Personal Safety. (Measured in percentage) <br>
@@ -40,16 +40,16 @@ percentage)<br>
 ## Visualization and interaction choices
 The visualizations allow us to summarize important descriptive
 variables of the quality of living (as a data scientist) in different places in the world, answering the question that one might
-have in their heads at the moment: “Where to go abroad?”. The visualizations can help leading to the best decision,
-taking in account witch variables are most important for each user.
-The choice of visualization types is based on the Python Graph Gallery, aswell as the papers “Data visualization 101: how to design charts
+have in their heads at the moment: “Where to go abroad?”. The visualizations can help to lead to the best decision,
+taking into account which variables are most important for each user.
+The choice of visualization types is based on the Python Graph Gallery, as well as the papers “Data visualization 101: how to design charts
 and graphs” and “What Makes a Visualization Memorable?”.
 This Dashboard includes three different tabs, where each one has a specific purpose.
 
 ### Tab 1: World
 The initial Tab that opens automatically when one enters our Dashboard is focused on a general description of the
-idea and the possibilities that this Dashboard offers. This tab offers a great overview for the user, to peak a general interest and to compare values for the same variable on various continents. Additionally, by selecting a variable, beneath the selection Dropdown there will be displayed a small description of the variable,
-similar to the definitions above. On the right side a world globe heatmap can be found, where the user can decide on a variable to display. After
+idea and the possibilities that this Dashboard offers. This tab offers a great overview for the user, to pique a general interest and to compare values for the same variable on various continents. Additionally, by selecting a variable, beneath the selection Dropdown there will be displayed a small description of the variable,
+similar to the definitions above. On the right side, a world globe heatmap can be found, where the user can decide on a variable to display. After
 having selected a variable, the correspondent value for the most recent year will be displayed in each country that
 has a record, in a corresponding colour, that can be interpreted with the colour scale legend to the right side of the
 visualization. <p>
@@ -68,8 +68,8 @@ variables that the user prioritizes. (Using the most effective channel: position
   
 ### Tab 3: Countries
 Finally, after the user has elected the countries which seem most appealing for his or her purpose, the final and
-most information-revealing tab serves to visualize all the features for the respective countries. Thus, several visualizations facilitate the comparison beween the values of a certain county with the World average. 
+most information-revealing tab serves to visualize all the features for the respective countries. Thus, several visualizations facilitate the comparison between the values of a certain county with the World average. 
 
 
 <hr>
-This Dashboard was created in the scope of the 'Data Visualization' Couse of the Masters of Data Science and Advanced Analytics at NOVA IMS - Information Management School
+This Dashboard was created in the scope of the 'Data Visualization' course of the Masters of Data Science and Advanced Analytics at NOVA IMS - Information Management School
